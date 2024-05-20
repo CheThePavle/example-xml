@@ -1,2 +1,4 @@
 # example-xml
-+validation
+
+## Запустить в cmd:
+node index
